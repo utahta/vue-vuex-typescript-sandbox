@@ -6,7 +6,7 @@
   "repository": "github:utahta/vue-vuex-typescript-example",
   "devDependencies": {
     "css-loader": "^3.2.0",
-    "electron": "~1.8.8",
+    "electron": "~7.2.4",
     "source-map-loader": "^0.2.1",
     "ts-loader": "^2.3.3",
     "typescript": "^2.4.2",
